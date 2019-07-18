@@ -33,7 +33,7 @@ public class ExercicioTres {
 			System.out.println(m1+ " é maior que " +m3);
 		}
 		
-		return void;
+		return 0;
 	}
 	
 	}
