@@ -54,7 +54,7 @@ public class Matematica {
 		return calculo / 3;		
 	}
 	
-	public int triangulo() {
+	public float triangulo() {
 		
 		float base, altura, area;
 		
